@@ -1,0 +1,14 @@
+th {
+  font-weight:400;
+  text-align: left;
+}
+
+.partTitle {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+div{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
